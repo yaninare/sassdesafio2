@@ -1,0 +1,9 @@
+$section: (
+    bg-color-standard: white,
+    text-color: #312c26,
+    font-standard: 2rem,
+)
+
+#standard{
+    background-color: map-get ($section, bg-color-standard);
+}
