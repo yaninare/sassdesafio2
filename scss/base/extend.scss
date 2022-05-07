@@ -1,0 +1,25 @@
+.card {
+    background: #fff;
+    border-radius: 4px;
+    padding: 16px;
+    box-shadow: 1px 1px 12px 0px rgba(0,0,0,1)
+}
+
+.avatar{
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+}
+
+.title{
+    font-weight: 700;
+    font-size: 20px;
+    letter-spacing: 12px;
+    opacity: 0.85;
+}
+
+.small{
+    font-weight: 400;
+    font-size: 12px;
+    opacity: 0.75;
+}
